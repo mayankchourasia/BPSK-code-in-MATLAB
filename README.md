@@ -34,7 +34,7 @@ title('BPSK')
 
 
 
-
+//all the inbuilt command feature are given using //
 
 
 
